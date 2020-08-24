@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169760610216",
+    "firebase_url": "https://wax-app-35f8e.firebaseio.com",
+    "project_id": "wax-app-35f8e",
+    "storage_bucket": "wax-app-35f8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169760610216:android:0f4b39428ea2e882c22f9d",
+        "android_client_info": {
+          "package_name": "com.example.wax_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169760610216-bc8a525pfqmceqi3nqt5nj87tfdcpbef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg1RqV93tgHRnCEh3Ti_ECMEo-5XLuaPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169760610216-bc8a525pfqmceqi3nqt5nj87tfdcpbef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
